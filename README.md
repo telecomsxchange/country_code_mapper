@@ -1,4 +1,4 @@
-# Country codes with E.164 to E.212 mapper
+# Country Codes list with E.164 to E.212 mapper
 
 
 A complete list of E.164 country codes (Voice) with relationship to  E.212 (MCCMNC) SMS Format.
